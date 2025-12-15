@@ -23,7 +23,7 @@ class DashboardCard extends StatelessWidget {
                 const SizedBox(width: 16),
                 Text(
                   text!, 
-                  style: TextStyle(fontSize: 24)),
+                  style: TextStyle(fontSize: 23)),
               ],
             ),
           ),
